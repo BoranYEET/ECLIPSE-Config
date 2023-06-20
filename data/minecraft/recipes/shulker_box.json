@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "mythicmetals:aquarium_pearl"
+    },
+    "-": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "pattern": [
+    "---",
+    "-#-",
+    "---"
+  ],
+  "result": {
+    "item": "minecraft:shulker_box"
+  }
+}

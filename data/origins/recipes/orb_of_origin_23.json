@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " n ",
+        "GN#",
+        " D "
+    ],
+    "key": {
+        "#": {
+            "item": "betterend:aeternium_ingot"
+        },
+        "G": {
+            "item": "mythicmetals:celestium_ingot"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "D": {
+            "item": "mythicmetals:metallurgium_ingot"
+        },
+        "n": {
+            "item": "byg:pendorite_ingot"
+        }
+    },
+    "result": {
+        "item": "origins:orb_of_origin",
+        "count": 1
+    },
+    "group": "orboforigin"
+}
